@@ -7,7 +7,7 @@ typedef struct d
 }date;
 
 int main (){
-    d a;
+    date a;
     
 return 0;
 }
